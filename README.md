@@ -9,8 +9,4 @@ It a Spring Boot JPA application that stores user wallet information. On success
 # UserService 
 It is a Spring Boot JPA application that stores user information.
 
-Tech Stack :
-1)Java
-2)Spring Boot
-3)Hibernate
-4)Swagger
+# Microservice Architecture
