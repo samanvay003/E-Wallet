@@ -23,7 +23,7 @@ public class CustomGlobalExceptionHandler extends ResponseEntityExceptionHandler
         response.sendError(HttpStatus.BAD_REQUEST.value());
     }
 
-    // Let Spring handle the exception, we just override the status code
+    
     @ExceptionHandler(TransactionBadRequest.class)
     public void springHandleNotFound2(HttpServletResponse response) throws IOException {
         response.sendError(HttpStatus.BAD_REQUEST.value());
