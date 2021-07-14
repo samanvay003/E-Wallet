@@ -1,3 +1,4 @@
+//User Model of Wallet Microservice
 package com.example.wallet_service.Model;
 
 import lombok.Getter;
