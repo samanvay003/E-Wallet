@@ -10,3 +10,6 @@ It a Spring Boot JPA application that stores user wallet information. On success
 It is a Spring Boot JPA application that stores user information.
 
 # Microservice Architecture
+
+![](Images/demo1.png)
+![](Images/demo2.png)
